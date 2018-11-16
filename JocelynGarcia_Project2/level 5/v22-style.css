@@ -1,0 +1,17 @@
+v22-style.css
+
+h1 {
+	font-size: 15px;
+}
+
+body {
+	background: linear-gradient(to right, #666699 0%, #66ccff 98%);
+	color: lightgrey;
+    text-shadow: 8px 8px 8px #000000;
+}
+
+div {
+	color: lightgrey;
+    text-shadow: 8px 8px 12px #000000;
+    font-size: 20
+}

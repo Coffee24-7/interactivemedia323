@@ -1,0 +1,27 @@
+v13-style.css
+
+p {
+	border-right: 400px;
+	border-left: 400px;
+}
+
+p {
+	border-style: outset;
+	border-width: 10px;
+}
+
+div {
+    background-color: black;
+    color: white;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+h1 {
+	border-bottom: 10px;
+	border-top: 10px;
+	border-style: outset;
+	margin-left: 600px;
+	margin-right: 600px;
+	border-width: 10px;
+}

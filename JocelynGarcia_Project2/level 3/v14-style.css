@@ -1,0 +1,25 @@
+v14-style.css
+
+p {
+	margin-left: 550px;
+    margin-right:80px;
+    padding-right:250px;
+}
+
+p {
+	border-left-style: dotted;
+	border-width: 4px;
+}
+
+div {
+    color: grey;
+    margin-left: 600px;
+}
+
+h1 {
+	border-bottom-style:solid;
+    border-left-style: dotted;
+	border-width: 5px;
+    border-color: grey;
+    margin-left: 550px;
+}

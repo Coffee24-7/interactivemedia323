@@ -1,0 +1,81 @@
+v23-style.css
+
+div10 {
+	background-color: grey;
+    font-size: 112px;
+}
+
+p {
+	display: inline-block;
+	background-color: grey;
+    color: white;
+    text-shadow: 8px 8px 12px #000000;
+    letter-spacing: 65px;
+    font-size: 35px;
+}
+
+p { 
+    width: 50px;
+    height: 50px;
+    -webkit-transition: width 3s, height 3s, -webkit-       transform 5s; /* safari */
+}
+    
+    
+p:hover {
+    width: 50px;
+    height: 50px;
+    -webkit-transform: rotate(230deg); /* safari */
+    transform: rotate(230deg);
+}
+
+body {
+    border-style: solid;
+    border-width: 25px;
+    border-color: white;
+    opacity:;
+}
+
+.div1 {
+	display: block;
+	background-color: #cc00cc;
+}
+
+.div2 { 
+    display: block;
+    background-color: #b300b3;
+}
+
+.div3 {
+    display: block;
+    background-color: #990099;
+}
+
+.div4 {
+    display: block;
+    background-color: #800080;
+}
+
+.div5 {
+	display: block;
+	background-color: #660066;
+}
+
+.div6 { 
+    display: block;
+    background-color: #4d004d;
+}
+
+.div7 {
+    display: block;
+    background-color: #330033;
+}
+
+.div8 {
+    display: block;
+    background-color: #1a001a;
+}
+
+.div9 {
+	display: block;
+	background-color: #000000;
+}

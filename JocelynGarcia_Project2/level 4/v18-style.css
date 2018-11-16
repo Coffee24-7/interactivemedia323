@@ -1,0 +1,171 @@
+v18-style.css
+
+h1 {
+	text-align: center;
+    background: purple;
+    color: black;
+    font-size: 75px;
+}
+
+p {
+    background-color: lightgrey;
+    margin: 145px 145px 145px 145px;
+    font-weight: bold;
+    font-size: 55px;
+}
+
+.div1 {
+    border-style: dashed;
+    border-width: 5px;
+    border-color: purple;
+    text-align: left;
+    margin: 5px 15px 10px;
+}
+
+.content1 {
+    border-style: dashed;
+    border-width: 5px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.div2 {
+    border-style: dashed;
+    border-width: 5px;
+    border-color: purple;
+    text-align: right;
+    margin: 10px 20px 20px;
+}
+
+.content2 {
+    border-style: dashed;
+    border-width: 5px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.div3 {
+    border-style: dashed;
+    border-width: 5px;
+    border-color: purple;
+    text-align: left;
+    margin: 15px 25px 30px;
+}
+
+.content3 {
+    border-style: dashed;
+    border-width: 5px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.div4 {
+    border-style: dashed;
+    border-width: 5px;
+    border-color: purple;
+    text-align: right;
+    margin: 20px 35px 40px;
+}
+
+.content4 {
+    border-style: dashed;
+    border-width: 5px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+.div5 {
+    border-style: dashed;
+    border-width: 5px;
+    border-color: purple;
+    text-align: left;
+    margin: 25px 45px 50px;
+}
+
+.content5 {
+    border-style: dashed;
+    border-width: 5px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.div6 {
+    border-style: dashed;
+    border-width: 5px;
+    border-color: purple;
+    text-align: right;
+    margin: 30px 55px 60px;
+}
+
+.content6 {
+    border-style: dashed;
+    border-width: 5px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+
+.div7 {
+    border-style: dashed;
+    border-width: 5px;
+    border-color: purple;
+    text-align: left;
+    margin: 35px 60px 70px;
+}
+
+.content7 {
+    border-style: dashed;
+    border-width: 5px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+
+.div8 {
+    border-style: dashed;
+    border-width: 5px;
+    border-color: purple;
+    text-align: right;
+    margin: 40px 65px 80px;
+}
+
+.content8 {
+    border-style: dashed;
+    border-width: 5px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.div9 {
+    border-style: dashed;
+    border-width: 5px;
+    border-color: purple;
+    text-align: left;
+    margin: 45px 70px 90px;
+}
+
+.content9 {
+    border-style: dashed;
+    border-width: 5px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+}

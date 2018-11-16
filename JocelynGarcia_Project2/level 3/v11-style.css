@@ -1,0 +1,19 @@
+v11-style.css
+
+p {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+
+p {
+	border-style: solid;
+	border-width: 25px;
+	background-color: gray;
+}
+
+h1 {
+	background-color: black;
+	color: white;
+}

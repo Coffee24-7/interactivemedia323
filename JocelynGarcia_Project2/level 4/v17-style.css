@@ -1,0 +1,104 @@
+v17-style.css
+
+p {
+	margin-left: 150px;
+}
+
+p {
+	margin-left: 150px;
+	border-left-width: 15px;
+	border-left-style: solid;
+	border-color: grey;
+	background-color: purple;
+	font-family: "jaapokki subtract regular", jaapokki subtract;
+	font-size: 55px;
+	color: white;
+}
+
+body {
+	background-color: black;
+}
+h1 {
+	border-left-style: solid; 
+	border-color: purple;
+	border-width: 15px;
+	background-color: grey;
+	font-family: "jaapokki enchance regular", jaapokki enchance;
+	font-size: 80px;
+	color: white;
+	margin-left: 150px;
+
+}
+
+.div1 {
+	border-style: dotted;
+	border-width: 7px;
+	border-color: white;
+    text-align: right;
+    margin: 80px 175px 300px 40px;
+}
+
+.div2 {
+    border-style: solid double;
+    border-width:7px;
+    border-color: white;
+    text-align: right;
+    margin: 80px 40px 300px 175px;
+    
+}
+
+.div3 {
+    border-style: dotted;
+    border-width: 7px;
+    border-color: white;
+    text-align: right;
+    margin: 80px 175px 300px 40px;
+}
+
+.div4 {
+    border-style: solid double;
+    border-width:7px;
+    border-color: white;
+    text-align: right;
+    margin: 80px 40px 300px 175px;
+}
+
+.div5 {
+    border-style: dotted;
+    border-width: 7px;
+    border-color: white;
+    text-align: right;
+    margin: 80px 175px 300px 40px;
+}
+
+.div6 {
+    border-style: solid double;
+    border-width:7px;
+    border-color: white;
+    text-align: right;
+    margin: 80px 40px 300px 175px;
+}
+
+.div7 {
+    border-style: dotted;
+    border-width: 7px;
+    border-color: white;
+    text-align: right;
+    margin: 80px 175px 300px 40px;
+}
+
+.div8 {
+    border-style: solid double;
+    border-width:7px;
+    border-color: white;
+    text-align: right;
+    margin: 80px 40px 300px 175px;
+}
+
+.div9 {
+    border-style: dotted;
+    border-width: 7px;
+    border-color: white;
+    text-align: right;
+    margin: 80px 175px 300px 40px;
+}  
