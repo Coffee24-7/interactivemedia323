@@ -1,0 +1,30 @@
+v16-style.css
+
+p {
+	margin-left: 150px;
+}
+
+p {
+	margin-left: 150px;
+	margin-right: 150px;
+	border-width: 350px;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-color: purple;
+	background-color: grey;
+	font-family: "jaapokki subtract regular", jaapokki subtract;
+	color: black;
+    text-align: center;
+}
+
+h1 {
+	border-left-style: solid; 
+	border-color: black;
+	border-width: 75px;
+	background-color: white;
+	font-family: "jaapokki subtract regular", jaapokki subtract;
+	font-size: 95px;
+	color: purple;
+	margin-left: 150px;
+
+}

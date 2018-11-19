@@ -1,0 +1,52 @@
+v25-style.css
+
+h1  {
+    font-size: 115px;
+    text-align: right;
+}
+
+p   {
+    font-size: 115px;
+    color: #666699;
+    text-align: right;
+    text-shadow: 10px 17px 5px darkred;
+    margin: 77px 200px;
+}
+
+
+body {
+    background: linear-gradient(to left, #666699 0%, #990000 100%);
+    margin-top: 50px;
+    margin-left: 35px;
+}
+
+div {
+    color: black;
+    margin-top:150px;
+    margin-bottom: 250px;
+}
+
+div {
+    width: 1300px;
+    height: 420px;
+    background-color: background: linear-gradient(to left, #666699 0%, #990000 100%);
+    -webkit-animation-duration: 5s; /* Safari 4.0 - 8.0 */
+    animation-name: example;
+    animation-duration: 5s;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes example {
+    from {background-color: #990000;}
+    to {background-color: purple;}
+}
+
+/* Standard syntax */
+@keyframes example {
+    from {background-color: #990000;}
+    to {background-color: purple;}
+}
+
+div:hover   {
+    animation: repeat;
+}

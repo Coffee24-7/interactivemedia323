@@ -1,0 +1,250 @@
+v20-style.css
+
+h1 {
+	background-color: lightgrey;
+	color: white;
+	float: center;
+}
+
+body {
+    background-color: grey;
+}
+
+div {
+    color: lightgrey;
+    font-size: 10px;
+}
+
+.content1 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+.content2 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.content3 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.content4 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+.content5 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.content6 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.content7 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+    
+}
+
+.content8 {
+   float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.content9 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.content10 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.content11 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+    
+}
+
+.content12 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.content13 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+    
+}
+
+.content14 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.content15 {
+   float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+    
+}
+
+.content16 {
+   float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+.content17 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.content18 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.content19 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.content20 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.content21 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.content22 {
+    float: center;
+    display: inline;
+    border: 5px solid grey;    
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.content23 {
+    display: inline;
+    width: 450px;
+    height: 500px; 
+    margin-right: 200px;
+    background-color: grey;
+    color: white;
+    font-size: 400px;
+    float: center;
+    position: fixed;
+    z-index: -1;
+}

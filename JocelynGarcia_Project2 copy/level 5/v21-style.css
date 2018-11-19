@@ -1,0 +1,13 @@
+v21-style.css
+
+h1 {
+    text-align: center;
+    margin: 175px 150px;
+    
+}
+div {  
+    background: linear-gradient(to bottom, #33ccff 0%, #cc00cc 100%);
+    border-width: 25px;
+    border-color: white;
+    margin: 100px 300px;
+}

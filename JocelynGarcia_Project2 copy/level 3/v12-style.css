@@ -1,0 +1,31 @@
+v12-style.css
+
+p {
+    border-top: 50px;
+	border-bottom: 50px;
+	border-right: 400px;
+	border-left: 400px;
+}
+
+p {
+	border-style: solid;
+	border-width: 7px;
+}
+
+div {
+    background-color: black;
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+h1 {
+    border-top: 50px;
+	border-bottom: 45px;
+	border-right: 800px;
+	border-left: 800px;
+    margin-top: 5px;
+    margin-bottom: 4px;
+    margin-left: 628px;
+    margin-right: 625px;
+}

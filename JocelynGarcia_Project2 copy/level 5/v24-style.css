@@ -1,0 +1,1195 @@
+v24-style.css
+
+h1 {
+    font-size: 500px;
+    color: purple;
+    text-shadow: 10px 8px 5px grey;
+}
+
+body {
+    background: linear-gradient(to bottom, #ffffff       0%, #000000 100%);
+    font-size: 100px;
+}
+
+div {
+    text-align: center;
+    color: purple;
+}
+
+.div1 { 
+   font-size: 600px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: 7px ;
+}
+
+.div2 { 
+   font-size: 150px;
+   font-family: ;
+   color:;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing:;
+}
+ .div3 { 
+   font-size: 500px;
+   font-family: ;
+   color: ;
+   text-align: left ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div4 { 
+   font-size:700px;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div5 { 
+   font-size: 450px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div6 { 
+   font-size: 850px ;
+   font-family: ;
+   color: ;
+   text-align: left ;
+   text-shadow: ;
+   letter-spacing: 55px ;
+}
+ .div7 { 
+   font-size: 575px ;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div8 { 
+   font-size: 985px ;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div9 { 
+   font-size: 495px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div10 { 
+   font-size: 275px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:150px;
+}
+ .div11 { 
+   font-size: 750px ;
+   font-family: ;
+   color: ;
+   text-align:left ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div12 { 
+   font-size: 195px;
+   font-family: ;
+   color: ;
+   text-align: right ;
+   text-shadow: ;
+   letter-spacing:305px ;
+}
+ .div13 { 
+   font-size: 850px;
+   font-family: ;
+   color: ;
+   text-align: right ;
+   text-shadow: ;
+   letter-spacing: 60px ;
+}
+ .div14 { 
+   font-size:98px ;
+   font-family: ;
+   color: ;
+   text-align:left ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div15 { 
+   font-size: 985px;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div16 { 
+   font-size: 235px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div17 { 
+   font-size: 850px ;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div18 { 
+   font-size: 775px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div19 { 
+   font-size:450px ;
+   font-family: ;
+   color: ;
+   text-align:left ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div20 { 
+   font-size:850px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div21 { 
+   font-size: 585px;
+   font-family: ;
+   color: ;
+   text-align: right ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div22 { 
+   font-size:1000px ;
+   font-family: ;
+   color: ;
+   text-align: left ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div23 { 
+   font-size: 395px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div24 { 
+   font-size: 690px;
+   font-family: ;
+   color: ;
+   text-align: left ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div25 { 
+   font-size: 995px;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div26 { 
+   font-size:85px ;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div27 { 
+   font-size: 525px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div28 { 
+   font-size:275px ;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing: 20px;
+}
+ .div29 { 
+   font-size: 695px ;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div30 { 
+   font-size: 605px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:25px ;
+}
+ .div31 { 
+   font-size: 365px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: 15;
+}
+ .div32 { 
+   font-size:785px ;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div33 { 
+   font-size: 100px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: 275px;
+}
+ .div34 { 
+   font-size:855px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div35 { 
+   font-size: 550px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: 10px;
+}
+ .div36 { 
+   font-size: 975px ;
+   font-family: ;
+   color: ;
+   text-align: left ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div37 { 
+   font-size: 305px ;
+   font-family: ;
+   color: ;
+   text-align:right;
+   text-shadow: ;
+   letter-spacing:80px;
+}
+ .div38 { 
+   font-size: 750px;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+}
+ .div39 { 
+   font-size: 245px;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div40 { 
+   font-size: 855px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div41 { 
+   font-size: 345px ;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing: 55px;
+}
+ .div42 { 
+   font-size: 975px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div43 { 
+   font-size: 475px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div44 { 
+   font-size: 110px ;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div45 { 
+   font-size: 75px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:100px ;
+}
+ .div46 { 
+   font-size: 777px;
+   font-family: ;
+   color: ;
+   text-align: left ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div47 { 
+   font-size:675px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div48 { 
+   font-size: 345px ;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: 10px;
+}
+ .div49 { 
+   font-size: 465px;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing:50px ;
+}
+ .div50 { 
+   font-size: 790px;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing:;
+}
+ .div51 { 
+   font-size: 755px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div52 { 
+   font-size: 680px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: 25px ;
+}
+ .div53 { 
+   font-size: 690px;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div54 { 
+   font-size:680px ;
+   font-family: ;
+   color: ;
+   text-align:left ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div55 { 
+   font-size: 690px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:;
+}
+ .div56 { 
+   font-size: 35px;
+   font-family: ;
+   color: ;
+   text-align:;
+   text-shadow: ;
+   letter-spacing:300px ;
+}
+ .div57 { 
+   font-size:125px ;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div58 { 
+   font-size: 300px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div59 { 
+   font-size: 975px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div60 { 
+   font-size: 300px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:15px ;
+}
+ .div61 { 
+   font-size: 200px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: 50px;
+}
+ .div62 { 
+   font-size: 400px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:15px ;
+}
+ .div63 { 
+   font-size: 200px;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div64 { 
+   font-size:600px ;
+   font-family: ;
+   color: ;
+   text-align:left ;
+   text-shadow: ;
+   letter-spacing: 100px;
+}
+ .div65 { 
+   font-size:700px ;
+   font-family: ;
+   color: ;
+   text-align: right ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div66 { 
+   font-size:650px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: 10px;
+}
+ .div67 { 
+   font-size: 470px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:5px ;
+}
+ .div68 { 
+   font-size: 685px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div69 { 
+   font-size: 700px;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div70 { 
+   font-size: 500px;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div71 { 
+   font-size:450px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:12px ;
+}
+ .div72 { 
+   font-size: 185px;
+   font-family: ;
+   color: ;
+   text-align:left ;
+   text-shadow: ;
+   letter-spacing:20px ;
+}
+ .div73 { 
+   font-size:235px ;
+   font-family: ;
+   color: ;
+   text-align:right ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div74 { 
+   font-size:885px ;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div75 { 
+   font-size:400px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: 10px;
+}
+ .div76 { 
+   font-size:850px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:10px ;
+}
+ .div77 { 
+   font-size: 745px ;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing: 15px;
+}
+ .div78 { 
+   font-size:514px ;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div79 { 
+   font-size: 350;
+   font-family: ;
+   color: ;
+   text-align:left ;
+   text-shadow: ;
+   letter-spacing:5px ;
+}
+ .div80 { 
+   font-size: 215px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:35px ;
+}
+ .div81 { 
+   font-size: 605px;
+   font-family: ;
+   color: ;
+   text-align:left ;
+   text-shadow: ;
+   letter-spacing:10px ;
+}
+ .div82 { 
+   font-size:875px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:10px ;
+}
+ .div83 { 
+   font-size: 775px;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div84 { 
+   font-size: 605px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: 10px;
+}
+ .div85 { 
+   font-size: 105px;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div86 { 
+   font-size: 375px ;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing:20px ;
+}
+ .div87 { 
+   font-size: 798px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:35px ;
+}
+ .div88 { 
+   font-size:450px ;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: 10px;
+}
+ .div89 { 
+   font-size: 355px;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div90 { 
+   font-size: 375px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: right;
+}
+ .div91 { 
+   font-size:558px ;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: 30px ;
+}
+ .div92 { 
+   font-size: 855px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div93 { 
+   font-size: 685px;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: 15px;
+}
+ .div94 { 
+   font-size: 550px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div95 { 
+   font-size: 385px ;
+   font-family: ;
+   color: ;
+   text-align:left ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div96 { 
+   font-size: 285px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div97 { 
+   font-size: 375px;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing:15px ;
+}
+ .div98 { 
+   font-size: 558px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div99 { 
+   font-size: 750px;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing:20px ;
+}
+ .div100 { 
+   font-size: 450px ;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing:10px ;
+}
+ .div101 { 
+   font-size: 178px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:45px ;
+}
+ .div102 { 
+   font-size: 855px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow:right ;
+   letter-spacing: ;
+}
+ .div103 { 
+   font-size: 295px;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div104 { 
+   font-size: 835px;
+   font-family: ;
+   color: ;
+   text-align:left ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div105 { 
+   font-size:559px ;
+   font-family: ;
+   color: ;
+   text-align:right ;
+   text-shadow: ;
+   letter-spacing: 20px;
+}
+ .div106 { 
+   font-size:235px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div107 { 
+   font-size:275px ;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing:20px ;
+}
+ .div108 { 
+   font-size:550px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:15px ;
+}
+ .div109 { 
+   font-size:679px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div110 { 
+   font-size: 270px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: 10px;
+}
+ .div111 { 
+   font-size:554px ;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div112 { 
+   font-size: 324px;
+   font-family: ;
+   color: ;
+   text-align:right ;
+   text-shadow: ;
+   letter-spacing: 10px;
+}
+ .div113 { 
+   font-size: 679px ;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div114 { 
+   font-size: 778px ;
+   font-family: ;
+   color: ;
+   text-align:right ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div115 { 
+   font-size: 855px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: 10px;
+}
+ .div116 { 
+   font-size:985px ;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div117 { 
+   font-size: 698px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: 10px;
+}
+ .div118 { 
+   font-size:205px ;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: 7px;
+}
+ .div119 { 
+   font-size: 755px;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing: 20px;
+}
+ .div120 { 
+   font-size:299px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div121 { 
+   font-size:305px;
+   font-family: ;
+   color: ;
+   text-align:left ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div122 { 
+   font-size:450px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:10px ;
+}
+ .div123 { 
+   font-size: 405px ;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div124 { 
+   font-size: 365px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div125 { 
+   font-size:300px ;
+   font-family: ;
+   color: ;
+   text-align: 20px ;
+   text-shadow: ;
+   letter-spacing: right;
+}
+ .div126 { 
+   font-size: ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div127 { 
+   font-size:570px ;
+   font-family: ;
+   color: ;
+   text-align:;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div128 { 
+   font-size: 360px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div129 { 
+   font-size:550px ;
+   font-family: ;
+   color: ;
+   text-align:right ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div130 { 
+   font-size:175px ;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing: 10px;
+}
+ .div131 { 
+   font-size: 330px;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: 5px;
+}
+ .div132 { 
+   font-size:612px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div133 { 
+   font-size: 105px;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div134 { 
+   font-size: 99px;
+   font-family: ;
+   color: ;
+   text-align: left;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div135 { 
+   font-size: 365px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: 15px;
+}
+ .div136 { 
+   font-size: 70px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:60px ;
+}
+ .div137 { 
+   font-size: 50px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:250px ;
+}
+ .div138 { 
+   font-size: ;
+   font-family:869px ;
+   color: ;
+   text-align:right ;
+   text-shadow: ;
+   letter-spacing:25px ;
+}
+ .div139 { 
+   font-size:289px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing:45px ;
+}
+ .div140 { 
+   font-size:350px ;
+   font-family: ;
+   color: ;
+   text-align:left ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div141 { 
+   font-size: 660px;
+   font-family: ;
+   color: ;
+   text-align:left ;
+   text-shadow: ;
+   letter-spacing:;
+}
+ .div142 { 
+   font-size:499px ;
+   font-family: ;
+   color: ;
+   text-align:right ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div143 { 
+   font-size:985px ;
+   font-family: ;
+   color: ;
+   text-align: right;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div144 { 
+   font-size: 490px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div145 { 
+   font-size:607px ;
+   font-family: ;
+   color: ;
+   text-align:right ;
+   text-shadow: ;
+   letter-spacing:20px ;
+}
+ .div146 { 
+   font-size:780px ;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ .div147 { 
+   font-size: 630px;
+   font-family: ;
+   color: ;
+   text-align: ;
+   text-shadow: ;
+   letter-spacing: ;
+}
+ 
