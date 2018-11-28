@@ -1,1 +1,14 @@
 w-h-style.css
+
+.usmap	{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	float: center;
+
+}
+
+.usmap:hover	{
+	-webkit-transform: <img src="images p3/i2.jpg";
+	transform: <img src="images p3/i2.jpg";
+}
