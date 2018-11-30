@@ -1,12 +1,14 @@
 LS1-style.css
 
-div	{
-	background-color: grey;
-}
 
 div		{
-	font-family: "AnnMarker", AnnMarker;
-	font-size: 80px;
 	text-align: left;
 	font-color: black;
+}
+
+
+body	{
+	background-color: grey;
+	font-family: "AnnMarker", AnnMarker;
+	font-size: 80px;
 }
