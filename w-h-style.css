@@ -57,3 +57,24 @@ w-h-style.css
 body 	{
 	background: linear-gradient(to bottom, #000000 0%, #666699 100%);
 }
+
+a:link {
+    color: none;
+    background-color: none;
+    text-decoration: none;
+}
+a:visited {
+    color: none;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: none;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active {
+    color: none;
+    background-color: transparent;
+    text-decoration: none;
+}
