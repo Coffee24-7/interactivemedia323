@@ -2,8 +2,25 @@ w-h-style.css
 
 .usmap	{
 	display: block;
-    margin-left: 300px;
-    margin-right: 300px;
+    width: 100%;
+    height: auto;
 	float: center;
 
+}
+
+.overlay	{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	transition: .5s ease;
+	transform: "imagesp3/i2.jpg";
+}
+
+.usmap:hover .overlay	{
+	opacity: 1;
 }
