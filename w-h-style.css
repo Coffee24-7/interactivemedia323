@@ -60,7 +60,7 @@ body 	{
 
 a:link {
     color: none;
-    background-color: none;
+    background-color: transparent;
     text-decoration: none;
 }
 a:visited {
