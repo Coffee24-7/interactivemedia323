@@ -11,3 +11,24 @@ body	{
 	font-family: "AnnMarker", AnnMarker;
 	font-size: 80px;
 }
+
+a:link {
+    color: none;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: none;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: none;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active {
+    color: none;
+    background-color: transparent;
+    text-decoration: none;
+}
