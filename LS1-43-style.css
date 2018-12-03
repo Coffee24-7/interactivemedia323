@@ -10,7 +10,6 @@ body {
 
 .container {
     display: inline;
-    font-family: "AnnMarker", AnnMarker;
     float: left;
     z-index: -1;
 }
@@ -18,6 +17,7 @@ body {
 .content {
     position: fixed;
     color: white;
+    font-family: "AnnMarker", AnnMarker;
     font-size: 35px;
 }
 
