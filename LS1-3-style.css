@@ -1,1 +1,10 @@
 LS1-3-style.css
+
+div {
+    display: block;
+}
+    
+body {
+    background-color: grey;
+    float: left;
+}

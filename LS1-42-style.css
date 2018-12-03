@@ -1,0 +1,42 @@
+LS1-42-style.css
+
+div {
+    display: inline;
+}
+    
+body {
+    background-color: grey;
+}
+
+.container {
+    display: inline;
+    float: right;
+    z-index: -1;
+}
+
+.content {
+    position: fixed;
+    color: black;
+    font-size: 55px;
+}
+
+a:link {
+    color: none;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: none;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: none;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active {
+    color: none;
+    background-color: transparent;
+    text-decoration: none;
+}

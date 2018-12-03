@@ -1,0 +1,19 @@
+LS1-38-style.css
+
+div {
+    display: block;
+}
+    
+body {
+    background-color: grey;
+    float: right;
+}
+
+p {
+    display: inline-block;
+    position: fixed;
+    color: black;
+    font-size: 55px;
+    text-align: center;
+}
+    

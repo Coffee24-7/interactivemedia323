@@ -1,0 +1,11 @@
+LS1-22-style.css
+
+div {
+    display: block;
+}
+
+body {
+    background-color: grey;
+    float: right;
+}
+  

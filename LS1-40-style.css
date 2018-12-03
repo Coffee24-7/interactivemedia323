@@ -1,0 +1,33 @@
+LS1-40-style.css
+
+div {
+    display: inline;
+}
+    
+body {
+    background-color: grey;
+}
+
+.content {
+    color: black;
+    font-size: 55px;
+}
+
+.t1 {
+    text-align: right;
+}
+
+.t2 {
+    text-align: center;
+}
+
+.t3 {
+    text-align: left;
+}
+
+.container {
+    position: fixed;
+    display: inline;
+    float: right;
+    z-index: -1;
+}

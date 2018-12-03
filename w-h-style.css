@@ -46,6 +46,7 @@ w-h-style.css
 .text {
   color: white;
   font-size: 65px;
+  font-family: "AnnMarker", AnnMarker;
   position: absolute;
   text-align: center;
   top: 50%;

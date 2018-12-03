@@ -1,0 +1,13 @@
+LS1-9-style.css
+
+body {
+    background-color: grey;
+    border-width: 100px;
+    margin: 100px 100px;
+    border-color: grey;
+}
+
+div {
+    display: block;
+    float: center;
+}

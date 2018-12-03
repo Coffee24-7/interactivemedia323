@@ -1,0 +1,10 @@
+LS1-30-style.css
+
+div {
+    display: block;
+}
+    
+body {
+    background-color: grey;
+    float: right;
+}
